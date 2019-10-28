@@ -1,5 +1,8 @@
 # TODO MASTER APP
 
+### GitHub
+my GitHub adress: https://github.com/hovhrachya93
+
 ## Stack
     - ReactJS + hooks
     - Redux + Reselect
@@ -24,3 +27,6 @@
 
 ### `npm run eject`
     **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+
+![alt text](https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Armenia.png)
